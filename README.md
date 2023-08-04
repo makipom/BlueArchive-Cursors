@@ -1,7 +1,7 @@
 # Blue Archive Cursor Set
 ![カーソル紹介 ちび](https://github.com/makipom/BlueArchive-Cursors/assets/118981482/4ae263fe-c4ed-4302-b690-a8248cfa2735)
 
-Cursors made to compliment the design tones of the smartphone game [`Blue Archive`](https://en.wikipedia.org/wiki/Blue_Archive), as well as other official sources connected to it.
+Cursors made to complement the design tones of the smartphone game [`Blue Archive`](https://en.wikipedia.org/wiki/Blue_Archive), as well as other official sources connected to it.
 
 ## Installation
 * Right click the `Install.inf` file and choose `Install` option in the context menu;
