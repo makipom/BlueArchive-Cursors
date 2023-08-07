@@ -1,4 +1,4 @@
-; ブルーアーカイブ
+; Blue Archive
 
 [Version]
 signature="$CHICAGO$"
@@ -33,8 +33,8 @@ areaselect.cur
 pen.cur
 alternativeselectNEW.cur
 [Strings]
-CUR_DIR       = "Cursors\ブルーアーカイブ"
-SCHEME_NAME   = "ブルーアーカイブ"
+CUR_DIR       = "Cursors\Blue Archive"
+SCHEME_NAME   = "Blue Archive"
 pointer       = "download1.cur"
 help          = "queshon.cur"
 work          = "background.ani"
