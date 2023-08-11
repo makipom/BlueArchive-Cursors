@@ -21,7 +21,7 @@ download1.cur
 queshon.cur
 background.ani
 loadNEW.ani
-text1png.ani
+text_better.ani
 block.cur
 resizeNS.cur
 resizeWE.cur
@@ -39,7 +39,7 @@ pointer       = "download1.cur"
 help          = "queshon.cur"
 work          = "background.ani"
 busy          = "loadNEW.ani"
-text          = "text1png.ani"
+text          = "text_better.ani"
 unavailiable  = "block.cur"
 vert          = "resizeNS.cur"
 horz          = "resizeWE.cur"

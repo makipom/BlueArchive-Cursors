@@ -21,7 +21,7 @@ normal-mini.cur
 help-mini.cur
 background-mini.ani
 loadNEW-mini.ani
-text-mini.ani
+text_better_mini.ani
 block-mini.cur
 resizeNS-mini.cur
 resizeWE-mini.cur
@@ -39,7 +39,7 @@ pointer       = "normal-mini.cur"
 help          = "help-mini.cur"
 work          = "background-mini.ani"
 busy          = "loadNEW-mini.ani"
-text          = "text-mini.ani"
+text          = "text_better_mini.ani"
 unavailiable  = "block-mini.cur"
 vert          = "resizeNS-mini.cur"
 horz          = "resizeWE-mini.cur"
