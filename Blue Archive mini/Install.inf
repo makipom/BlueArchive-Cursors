@@ -20,7 +20,7 @@ HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,
 normal-mini.cur
 help-mini.cur
 background-mini.ani
-work-mini.ani
+loadNEW-mini.ani
 text-mini.ani
 block-mini.cur
 resizeNS-mini.cur
@@ -38,7 +38,7 @@ SCHEME_NAME   = "Blue Archive mini"
 pointer       = "normal-mini.cur"
 help          = "help-mini.cur"
 work          = "background-mini.ani"
-busy          = "work-mini.ani"
+busy          = "loadNEW-mini.ani"
 text          = "text-mini.ani"
 unavailiable  = "block-mini.cur"
 vert          = "resizeNS-mini.cur"
