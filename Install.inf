@@ -1,4 +1,4 @@
-; Blue Archive
+; Blue Archive mini
 
 [Version]
 signature="$CHICAGO$"
@@ -17,36 +17,36 @@ HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,
 ; -- Common Information
 
 [Scheme.Cur]
-download1.cur
-queshon.cur
-background.ani
-loadNEW.ani
-text1png.ani
-block.cur
-resizeNS.cur
-resizeWE.cur
-resizeDIAG1.cur
-resizeDIAG2.cur
-moveNEW.cur
-download2.cur
-areaselect.cur
-pen.cur
-alternativeselectNEW.cur
+normal-mini.cur
+help-mini.cur
+background-mini.ani
+loadNEW-mini.ani
+text-mini.ani
+block-mini.cur
+resizeNS-mini.cur
+resizeWE-mini.cur
+resizeDIAG1-mini.cur
+resizeDIAG2-mini.cur
+moveNEW-mini.cur
+link-mini.cur
+areaselect-mini.cur
+pen-mini.cur
+alternativeselect-mini.cur
 [Strings]
-CUR_DIR       = "Cursors\Blue Archive"
-SCHEME_NAME   = "Blue Archive"
-pointer       = "download1.cur"
-help          = "queshon.cur"
-work          = "background.ani"
-busy          = "loadNEW.ani"
-text          = "text1png.ani"
-unavailiable  = "block.cur"
-vert          = "resizeNS.cur"
-horz          = "resizeWE.cur"
-dgn1          = "resizeDIAG1.cur"
-dgn2          = "resizeDIAG2.cur"
-move          = "moveNEW.cur"
-link          = "download2.cur"
-cross         = "areaselect.cur"
-hand          = "pen.cur"
-alternate     = "alternativeselectNEW.cur"
+CUR_DIR       = "Cursors\Blue Archive mini"
+SCHEME_NAME   = "Blue Archive mini"
+pointer       = "normal-mini.cur"
+help          = "help-mini.cur"
+work          = "background-mini.ani"
+busy          = "loadNEW-mini.ani"
+text          = "text-mini.ani"
+unavailiable  = "block-mini.cur"
+vert          = "resizeNS-mini.cur"
+horz          = "resizeWE-mini.cur"
+dgn1          = "resizeDIAG1-mini.cur"
+dgn2          = "resizeDIAG2-mini.cur"
+move          = "moveNEW-mini.cur"
+link          = "link-mini.cur"
+cross         = "areaselect-mini.cur"
+hand          = "pen-mini.cur"
+alternate     = "alternativeselect-mini.cur"
