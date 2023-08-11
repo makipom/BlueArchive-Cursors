@@ -1,4 +1,4 @@
-![cursorshoukai-github2 2](https://github.com/makipom/BlueArchive-Cursors/assets/118981482/f9e41d69-33b7-4db0-ab66-20b50ed4411c)
+![cursorshoukai-github2 2_20230812](https://github.com/makipom/BlueArchive-Cursors/assets/118981482/195942eb-57b0-4f0b-bdd8-8e15ffc900bb)
 
 Cursors made to complement the design tones of the smartphone game [`Blue Archive`](https://en.wikipedia.org/wiki/Blue_Archive), as well as other official sources connected to it.
 
