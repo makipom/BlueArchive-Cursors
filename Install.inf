@@ -17,36 +17,36 @@ HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,
 ; -- Common Information
 
 [Scheme.Cur]
-download1.cur
-queshon.cur
+normal.cur
+help.cur
 background.ani
-loadNEW.ani
-text_better.ani
+loading.ani
+text.ani
 block.cur
 resizeNS.cur
 resizeWE.cur
 resizeDIAG1.cur
 resizeDIAG2.cur
-moveNEW.cur
-download2.cur
+move.cur
+link.cur
 areaselect.cur
 pen.cur
-alternativeselectNEW.cur
+alternativeselect.cur
 [Strings]
 CUR_DIR       = "Cursors\Blue Archive"
 SCHEME_NAME   = "Blue Archive"
-pointer       = "download1.cur"
-help          = "queshon.cur"
+pointer       = "normal.cur"
+help          = "help.cur"
 work          = "background.ani"
-busy          = "loadNEW.ani"
-text          = "text_better.ani"
+busy          = "loading.ani"
+text          = "text.ani"
 unavailiable  = "block.cur"
 vert          = "resizeNS.cur"
 horz          = "resizeWE.cur"
 dgn1          = "resizeDIAG1.cur"
 dgn2          = "resizeDIAG2.cur"
-move          = "moveNEW.cur"
-link          = "download2.cur"
+move          = "move.cur"
+link          = "link.cur"
 cross         = "areaselect.cur"
 hand          = "pen.cur"
-alternate     = "alternativeselectNEW.cur"
+alternate     = "alternativeselect.cur"
