@@ -1,0 +1,52 @@
+; Blue Archive mini
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Txt
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%"
+
+; -- Common Information
+
+[Scheme.Cur]
+normal-mini.cur
+help-mini.cur
+background-mini.ani
+loading-mini.ani
+text_mini.ani
+block-mini.cur
+resizeNS-mini.cur
+resizeWE-mini.cur
+resizeDIAG1-mini.cur
+resizeDIAG2-mini.cur
+move-mini.cur
+link-mini.cur
+areaselect-mini.cur
+pen-mini.cur
+alternativeselect-mini.cur
+[Strings]
+CUR_DIR       = "Cursors\Blue Archive mini"
+SCHEME_NAME   = "Blue Archive mini"
+pointer       = "normal-mini.cur"
+help          = "help-mini.cur"
+work          = "background-mini.ani"
+busy          = "loading-mini.ani"
+text          = "text_mini.ani"
+unavailiable  = "block-mini.cur"
+vert          = "resizeNS-mini.cur"
+horz          = "resizeWE-mini.cur"
+dgn1          = "resizeDIAG1-mini.cur"
+dgn2          = "resizeDIAG2-mini.cur"
+move          = "move-mini.cur"
+link          = "link-mini.cur"
+cross         = "areaselect-mini.cur"
+hand          = "pen-mini.cur"
+alternate     = "alternativeselect-mini.cur"
