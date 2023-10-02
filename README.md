@@ -1,6 +1,6 @@
 ![cursorshoukai-github2 2_20230814](https://github.com/makipom/BlueArchive-Cursors/assets/118981482/0bd49a85-cecb-4559-b06d-7b1e3f43427c)
 
-### Regular Edition 
+### <p align="center"> <b> Regular Edition </b> </p>
 #### Latest Release ▷ [Blue Archive Cursor Set v0.4.1](https://github.com/makipom/BlueArchive-Cursors/releases/tag/v0.4.1)
 Cursors made to complement the design tones of the smartphone game [`Blue Archive`](https://en.wikipedia.org/wiki/Blue_Archive), as well as other official sources connected to it.
 
@@ -8,7 +8,7 @@ As you can see from the version number - this is an early release; probably will
 
 
 ![millenniumshort](https://github.com/makipom/BlueArchive-Cursors/assets/118981482/d90c5c6c-01a4-4f19-b8c2-f6332d2ee39a)
-### Millennium Edition 
+### <p align="center"> <b> Millennium Edition  </b> </p>
 #### Latest Release ▷ [Blue Archive Cursor Set (Millennium Edition) v1.0](https://github.com/makipom/BlueArchive-Cursors/releases/tag/millennium-1.0)
 Cursors made loosely based on the original designs from the official Chinese website, as well as Millennium Science School students and imagery.
 
