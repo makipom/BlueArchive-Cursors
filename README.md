@@ -1,3 +1,5 @@
+## EN ❙ [中文](https://github.com/makipom/BlueArchive-Cursors/blob/main/README_zh-cn.md)
+
 ![cursorshoukai-github2 2_20230814](https://github.com/makipom/BlueArchive-Cursors/assets/118981482/0bd49a85-cecb-4559-b06d-7b1e3f43427c)
 
 ### <p align="center"> <b> Regular Edition </b> </p>
