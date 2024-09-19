@@ -10,7 +10,7 @@ As you can see from the version number - this is an early release; probably will
 
 
 ![millenniumshort](https://github.com/makipom/BlueArchive-Cursors/assets/118981482/d90c5c6c-01a4-4f19-b8c2-f6332d2ee39a)
-### <p align="center"> <b> Millennium Edition  </b> </p>
+### <p align="center"> <b> Millennium Edition </b> </p>
 #### Latest Release ▷ [Blue Archive Cursor Set (Millennium Edition) v1.3](https://github.com/makipom/BlueArchive-Cursors/releases/tag/millennium-1.3)
 Cursors made loosely based on the original designs from the official Chinese website, as well as Millennium Science School students and imagery.
 
