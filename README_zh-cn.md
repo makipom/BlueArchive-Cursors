@@ -1,4 +1,4 @@
-## [EN](https://github.com/makipom/BlueArchive-Cursors/blob/main/README.md) ❙ 中文
+## [EN](https://github.com/makipom/BlueArchive-Cursors/blob/main/README.md) ❙ 中文 ❙ [日本語](https://github.com/makipom/BlueArchive-Cursors/blob/main/README_jp.md)
 
 ![cursorshoukai-github2 2_20230814](https://github.com/makipom/BlueArchive-Cursors/assets/118981482/0bd49a85-cecb-4559-b06d-7b1e3f43427c)
 
@@ -10,7 +10,7 @@
 
 
 ![millenniumshort](https://github.com/makipom/BlueArchive-Cursors/assets/118981482/d90c5c6c-01a4-4f19-b8c2-f6332d2ee39a)
-### <p align="center"> <b> 千年版  </b> </p>
+### <p align="center"> <b> 千年版 </b> </p>
 #### 最新发布 ▷ [Blue Archive Cursor Set (Millennium Edition) v1.3](https://github.com/makipom/BlueArchive-Cursors/releases/tag/millennium-1.3)
 这些光标大致基于官方中文网站的原始设计，以及千年科学学校的学生和图像。
 
